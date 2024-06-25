@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Description
+
+My Code for the Udemy course _Modern React with Redux [2024 Update]_ by Stephen Grider
+[https://www.udemy.com/course/react-redux](https://www.udemy.com/course/react-redux)
+
+SECTION 18: Into the World of Reducers
+
 ## Available Scripts
 
 In the project directory, you can run:
